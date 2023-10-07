@@ -1,0 +1,6 @@
+[book]
+authors = ["Mathspy"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bevy for Witches"
